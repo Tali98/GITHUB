@@ -1,0 +1,6 @@
+usar npm run serve para correr
+
+veutify usado en los botones
+
+el faranheit a celsius tiene que elegir un numero , apretar el boton y luego apretar otro numero y darle igual.
+(num)=>operador deseado=>(num2)=>equals=> respuesta.
